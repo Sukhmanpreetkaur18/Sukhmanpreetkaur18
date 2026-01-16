@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sukhmanpreet Kaur
 
 🎓 **B.Tech 2nd Year Student** at **CT University**  
-💻 Aspiring Software Engineer | Tech Learner | Problem Solver  
+💻 Aspiring AI Engineer | Tech Learner | Problem Solver  
 
 ---
 
