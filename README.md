@@ -7,17 +7,21 @@
 
 ## 📌 About Me
 
-I am a passionate **B.Tech 2nd year student** with a strong interest in **programming, software development, and emerging technologies**.  
+I am a passionate **B.Tech 2nd year student** with a strong interest in **programming, software development, AI and emerging technologies**.  
 Currently focused on strengthening my fundamentals, building projects, and preparing for internships and industry exposure.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-- **Programming Languages:**  
-  - C++  
+- **Programming Languages:**
+  - C
+  - C++ (Basics)
   - Java (Basics)  
   - Python (Basics)
+  - SQL (Basics)
+  - HTML
+  - CSS
 
 - **Core Concepts:**  
   - Data Structures & Algorithms  
@@ -56,15 +60,15 @@ I am actively working on academic and personal projects related to:
 - Improve problem-solving skills  
 - Build strong real-world projects  
 - Secure a **summer internship**  
-- Explore opportunities in **software development & cloud computing**
+- Explore opportunities in **software development & AI**
 
 ---
 
 ## 📫 Connect With Me
 
-- **GitHub:** https://github.com/your-username  
-- **LinkedIn:** https://linkedin.com/in/your-profile  
-- **Email:** your-email@example.com  
+- **GitHub:** https://github.com/Sukhmanpreetkaur18  
+- **LinkedIn:** https://linkedin.com/in/https://www.linkedin.com/in/sukhmanpreet-kaur-51a613378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+- **Email:** jasmeetkaurchwl@gmail.com  
 
 ---
 
