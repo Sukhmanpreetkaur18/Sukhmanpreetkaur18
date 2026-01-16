@@ -24,8 +24,10 @@ Currently focused on strengthening my fundamentals, building projects, and prepa
   - CSS
 
 - **Core Concepts:**  
-  - Data Structures & Algorithms  
-  - Object-Oriented Programming  
+  - Data Structures & Algorithms
+  - Programming Fundamentals
+  - Problem Solving and Logic Building
+  - Computer Fundamentals  
   - Database Management Systems  
   - Operating Systems (Basics)
 
@@ -39,6 +41,7 @@ Currently focused on strengthening my fundamentals, building projects, and prepa
 ## 📚 Current Learning
 
 - Advanced **C++ & DSA**
+- Python (intermediate level)
 - **Database Management Systems**
 - **Web Development Basics**
 - Competitive Programming (Beginner Level)
