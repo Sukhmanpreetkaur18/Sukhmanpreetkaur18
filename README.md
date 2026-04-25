@@ -1,8 +1,17 @@
 
 
-<h2 align="center">👋 Hey, I'm Sukhmanpreet Kaur</h2>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Sukhmanpreetkaur18/Sukhmanpreetkaur18/main/pikachu.gif" width="40" style="vertical-align:middle; margin-right:10px;" />
+   Hey, I'm Sukhmanpreet Kaur
+</h2>
 
-<h3 align="center">🚀 AI Developer | 💻 Python Enthusiast | 🧠 Problem Solver</h3>
+<h3 align="center">💻 Aspiring AI Engineer | Tech Learner | Problem Solver</h3>
+
+<p align="center">
+  🎓 B.Tech 2nd Year Student at CT University <br>
+  🚀 Passionate about AI, Software Development & Emerging Technologies
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+Projects;Debugging+Like+a+Pro;Hackathon+Driven+Developer;Turning+Ideas+Into+Reality;Always+Learning+Something+New&center=true&width=700&height=60">
@@ -27,27 +36,11 @@
   <img src="https://komarev.com/ghpvc/?username=Sukhmanpreetkaur18&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sukhmanpreetkaur18&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sukhmanpreetkaur18/Sukhmanpreetkaur18/output/github-snake-dark.svg" />
-</p>
-
 <h3 align="center">⚡ “Code. Create. Dominate.” ⚡</h3>
-
-----
-<h1 align="center">Hi 👋, I'm Sukhmanpreet Kaur</h1>
-<h3 align="center">💻 Aspiring AI Engineer | Tech Learner | Problem Solver</h3>
-
-<p align="center">
-  🎓 B.Tech 2nd Year Student at CT University <br>
-  🚀 Passionate about AI, Software Development & Emerging Technologies
-</p>
 
 ---
 <a href="https://github.com/Sukhmanpreetkaur18/github-readme-activity-graph"><img alt="Sukhmanpreetkaur18's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Sukhmanpreetkaur18&bg_color=1F222E&color=4da6ff&line=02cf35&point=FFFFFF&hide_border=true" /></a>
+
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/Sukhmanpreetkaur18">
@@ -75,7 +68,7 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,java,py,html,css,sql" />
 </p>
 
 ### ⚙️ Core Concepts
@@ -85,9 +78,43 @@
 ![OS](https://img.shields.io/badge/OS-Basics-lightgrey)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Improving-success)
 
+<h2 align="center">🏆 Achievements & Experience</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ECWOC'26-Top%2012-gold?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GSSoC'26-Selected-blue?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Arcade'26-Badges-purple?style=for-the-badge&logo=gamepad"/>
+<img src="https://img.shields.io/badge/GSoC'26-Applied-orange?style=for-the-badge&logo=google"/>
+
+</p>
+
+---
+
+### 🚀 Highlights
+
+- 🏅 Ranked **Top 12 in ECWOC'26**
+- 🎯 Selected contributor for **GSSoC'26**
+- 🎮 Earned multiple badges in **GitHub Arcade 2026**
+- 🌍 Applied for **GSoC'26**
+
+---
+
+### 💻 Hackathons & Leadership
+
+- 🏆 Participated in **4–5 Hackathons**
+- 🥇 Achieved **Top 5 position in one hackathon**
+- 🥈 Achieved **Top 10 in multiple hackathons**
+- 🎤 Served as **Coordinator for University Hackathon**
+
+  
+
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50"/>
 </p>
 
 ---
@@ -101,38 +128,39 @@
 
 ---
 
-<!-- Line -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<!-- Streak Feature -->
-<h2 align="center"><img src="https://github.com/Sukhmanpreetkaur18/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
-<div align="center" width="50%">
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sukhmanpreetkaur18&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Sukhman's GitHub Streak" /> 
 
 
-  </p>
-</div>
+<h2 align="center">💡 Projects</h2>
 
-<!-- Dropdown for More Stats -->
-<div align="center" style="max-width: 600px; margin: auto;">
+<p align="center">
 
-  <div align="center">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukhmanpreetkaur18&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sukhmanpreetkaur18&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sukhmanpreetkaur18&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sukhmanpreetkaur18&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sukhmanpreetkaur18&theme=github_dark" />
-  </div>
-  <br>
-  
-</div>
+<img src="https://img.shields.io/badge/Machine%20Learning-Flight%20Prediction-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Status-Private%20Repo-red?style=for-the-badge&logo=github"/>
 
+</p>
 
-## 💡 Projects
-🚧 *Projects coming soon...*
+---
 
-🔹 Working on:
+### ✈️ Flight Price Prediction System
+
+🚀 **Overview:**  
+Machine Learning model to predict flight ticket prices based on real-world parameters.
+
+⚙️ **Tech Stack:**  
+Python • Pandas • NumPy • Scikit-learn
+
+🧠 **Key Features:**  
+- Data preprocessing & feature engineering  
+- Regression models for price prediction  
+- Improved accuracy through tuning  
+- Real-world use case: travel cost estimation  
+
+🔒 *Code is private, available upon request*
+
+---
+
+### 🚧 Currently Working On
+
 - Data Structures & Algorithms implementations  
 - Mini software applications  
 - Academic & lab-based projects  
