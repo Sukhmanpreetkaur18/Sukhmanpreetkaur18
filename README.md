@@ -170,6 +170,8 @@ Python • Pandas • NumPy • Scikit-learn
 - Improved accuracy through tuning  
 - Real-world use case: travel cost estimation  
 
+ Gihub repo: https://github.com/Sukhmanpreetkaur18/flight-price-prediction
+
 🔒 *Code is private, available upon request*
 
 ---
