@@ -78,15 +78,30 @@
 ![OS](https://img.shields.io/badge/OS-Basics-lightgrey)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Improving-success)
 
-<h2 align="center">🏆 Achievements & Experience</h2>
+---
 
-<p align="center">
+<h2>🏆 Achievements & Badges</h2>
 
-<img src="https://img.shields.io/badge/ECWOC'26-Top%2012-gold?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/GSSoC'26-Selected-blue?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Arcade'26-Badges-purple?style=for-the-badge&logo=gamepad"/>
-<img src="https://img.shields.io/badge/GSoC'26-Applied-orange?style=for-the-badge&logo=google"/>
+### 🎖 ECWOC Achievement
+<p>
+  <img src="https://raw.githubusercontent.com/Sukhmanpreetkaur18/Sukhmanpreetkaur18/main/ecwoc.jpeg" width="350"/>
+</p>
 
+<p>
+🏅 Ranked <b>Top 12 globally in ECWOC'26</b>
+</p>
+
+---
+
+### 🎮 Arcade Badges
+
+  <p>
+  <img src="https://raw.githubusercontent.com/Sukhmanpreetkaur18/Sukhmanpreetkaur18/main/arcade1.png" width="120"/>
+  <img src="https://raw.githubusercontent.com/Sukhmanpreetkaur18/Sukhmanpreetkaur18/main/arcade2.png" width="120"/>
+  <img src="https://raw.githubusercontent.com/Sukhmanpreetkaur18/Sukhmanpreetkaur18/main/arcade3.png" width="120"/>
+  <img src="https://raw.githubusercontent.com/Sukhmanpreetkaur18/Sukhmanpreetkaur18/main/arcade4.png" width="120"/>
+  <img src="https://raw.githubusercontent.com/Sukhmanpreetkaur18/Sukhmanpreetkaur18/main/arcade5.png" width="120"/>
+  <img src="https://raw.githubusercontent.com/Sukhmanpreetkaur18/Sukhmanpreetkaur18/main/arcade6.png" width="120"/>
 </p>
 
 ---
@@ -107,7 +122,7 @@
 - 🥈 Achieved **Top 10 in multiple hackathons**
 - 🎤 Served as **Coordinator for University Hackathon**
 
-  
+---
 
 ### 🧰 Tools & Platforms
 <p>
@@ -130,9 +145,9 @@
 
 
 
-<h2 align="center">💡 Projects</h2>
+<h2>💡 Projects</h2>
 
-<p align="center">
+<p>
 
 <img src="https://img.shields.io/badge/Machine%20Learning-Flight%20Prediction-blue?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/Status-Private%20Repo-red?style=for-the-badge&logo=github"/>
@@ -176,7 +191,7 @@ Python • Pandas • NumPy • Scikit-learn
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Sukhmanpreetkaur18&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sukhmanpreetkaur18&theme=tokyonight" />
 </p>
