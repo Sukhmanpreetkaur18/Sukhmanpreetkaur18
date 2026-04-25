@@ -46,7 +46,7 @@
   <a href="https://github.com/Sukhmanpreetkaur18">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/sukhmanpreet-kaur-51a613378">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/sukhmanpreet-kaur-080b783a6">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:jasmeetkaurchwl@gmail.com">
